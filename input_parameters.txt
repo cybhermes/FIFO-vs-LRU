@@ -1,0 +1,6 @@
+=== Parametry wejściowe ===
+Liczba odwołań: 50
+Maksymalny numer strony: 15
+Liczba ramek: 10
+Sekwencja odwołań: 5 12 4 8 15 13 9 0 15 6 4 3 5 15 2 3 0 7 1 10 4 6 4 11 0 15 5 9 3 13 1 4 7 12 3 7 7 15 10 5 10 7 3 0 5 12 11 7 3 3
+
