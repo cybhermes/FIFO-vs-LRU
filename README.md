@@ -66,7 +66,7 @@ sudo apt install bc
 
 ---
 
-## Istallation
+## Installation
 
 Clone the repository
 
@@ -115,7 +115,7 @@ Reference | Frames | Fault
 
 ---
 
-## Performance Metric
+## Performance Metrics 
 
 The simulator calculates:
 - Page Faults -> number of misses
