@@ -9,15 +9,15 @@ The project generates random page reference sequences, simulates both algorithms
 
 ##  Table of Contents
 
-- [Features](#-features)
-- [Algorithms Explained](#-algorithms-explained)
-- [Requirements](#️-requirements)
-- [Installation](#-installation)
-- [Usage](#️-usage)
-- [Example Output](#-example-output)
-- [Performance Metrics](#-performance-metrics)
-- [Project Structure](#-project-structure)
-- [Experiment Ideas](#-experiment-ideas)
+- [Features](#-Features)
+- [Algorithms Explained](#-Algorithms-Explained)
+- [Requirements](#️-Requirements)
+- [Installation](#-Installation)
+- [Usage](#️-Usage)
+- [Example Output](#-Example-Output)
+- [Performance Metrics](#-Performance-Metrics)
+- [Project Structure](#-Project-Structure)
+- [Experiment Ideas](#-Experiment-Ideas)
 
 ---
 
