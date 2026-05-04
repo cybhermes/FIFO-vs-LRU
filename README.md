@@ -71,7 +71,7 @@ sudo apt install bc
 Clone the repository
 
 ```bash
-git clone https://github.com/sDarkLords/FIFO-vs-LRU.git
+git clone https://github.com/cybhermes/FIFO-vs-LRU.git
 cd FIFO-vs-LRU
 ```
 
